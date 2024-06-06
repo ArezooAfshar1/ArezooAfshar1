@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Arezoo</h2>
+__Hi 👋, I'm Arezoo__
 ```
 const bio = {
     status: " Available for Opportunities ",
