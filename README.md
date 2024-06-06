@@ -1,6 +1,6 @@
 __Hi 👋, I'm Arezoo__
 ```
-const bio = {
+bio = {
     status: " Available for Opportunities ",
     name: "Arezoo ",
     birthDay: "13th May ",
