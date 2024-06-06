@@ -1,5 +1,5 @@
-## Hi there 👋
-
+___Hi 👋, I'm Arezoo___
+> I'm a junior backend developer.  
 <!--
 **ArezooAfshar1/ArezooAfshar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+__I use these to create:__
+><img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54'/>
+><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+><img src="https://img.shields.io/badge/HTML-red"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
