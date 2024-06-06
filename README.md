@@ -1,5 +1,18 @@
 ___Hi 👋, I'm Arezoo___
-> I'm a junior backend developer.  
+```
+const bio = {
+    status: " Available for Opportunities ",
+    name: "Arezoo ",
+    birthDay: "13th May ",
+    skills: ["Python ", "Django ", "HTML"..." ],
+    education: {
+        university: "Islamic Azad University of Karaj"
+    }
+}
+```
+
+
+Feel free to customize it further if needed! 🎉
 <!--
 **ArezooAfshar1/ArezooAfshar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
