@@ -1,6 +1,5 @@
 __Hi 👋, I'm Arezoo__
 ```
-python
 bio = {
     status: " Available for Opportunities ",
     name: "Arezoo ",
