@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 -->
 __I use these to create:__
 
-<p>Hi 👋, I'm Arezoo</p>
-
 <ul>
     <li>💻 
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30">
