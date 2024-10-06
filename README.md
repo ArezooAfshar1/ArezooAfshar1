@@ -4,7 +4,7 @@ bio = {
     status: " Available for Opportunities ",
     name: "Arezoo ",
     birthDay: "13th May ",
-    skills: ["Python ", "Django ", "HTML"..." ],
+    skills: ["Python ", "Django ", "MYSQL"..." ],
     education: {
         university: "Islamic Azad University of Karaj"
     }
