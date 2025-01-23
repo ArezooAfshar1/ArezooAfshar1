@@ -1,23 +1,8 @@
-Hi there👋
-I'm Arezoo
-```python
-bio = {
-    status: " Available for Opportunities ",
-    name: "Arezoo ",
-    birthDay: "13th May ",
-    skills: ["Python ", "Django ", "MYSQL"..." ],
-    education: {
-        university: "Islamic Azad University of Karaj"
-    }
-}
-```
+Hi, I'm Arezoo 
 
-<!--
-**ArezooAfshar1/ArezooAfshar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate backend developer and technology enthusiast 🎯
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -25,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 __I use these to create:__
 
 <ul>
