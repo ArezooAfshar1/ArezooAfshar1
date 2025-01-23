@@ -1,4 +1,5 @@
-__Hi there👋, I'm Arezoo__
+Hi there👋
+I'm Arezoo
 ```python
 bio = {
     status: " Available for Opportunities ",
