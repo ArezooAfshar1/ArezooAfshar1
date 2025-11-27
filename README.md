@@ -51,18 +51,14 @@ Mostly working with JavaScript/TypeScript and Node.js ecosystem — and sometime
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### **Messaging / Distributed Systems**
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-
-### **Automation**
+### **Automation & DevOps**
 ![n8n](https://img.shields.io/badge/n8n-FF6B00?style=for-the-badge&logo=n8n&logoColor=white)
-
-
-### **Version Control**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
+### **Messaging / Distributed Systems**
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ---
 
 ## 🛠️ Operating Systems
