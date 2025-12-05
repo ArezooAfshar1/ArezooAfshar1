@@ -17,7 +17,6 @@ Mostly working with JavaScript/TypeScript and Node.js ecosystem — and sometime
 
 ## 🌐 Social Networks
 [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:arezooafshar108@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arezu_afshar)
 
 
 ---
